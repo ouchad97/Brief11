@@ -19,3 +19,16 @@ A la base, WordPress était utilisé essentiellement pour la mise en place de bl
 
 • Des problèmes d’instabilité
 
+# Installation
+
+•Installation wordpress ( telechargement fichier zip )
+•ouvrir dossier wordpress dans localhost (xampp)
+•creation base données freelancer
+•configuration wordpress avec base de données freelancer
+•Creation des utilisateur avec différent rôle ( admin/user )
+•Telechargement et installation theme neve
+•importation site Freelancer depuis Neve option
+•Adaptation le contenu 
+•finalement creation page de mon cv
+
+
